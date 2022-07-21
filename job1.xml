@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
+<jobcount>3052</jobcount>
 <job>
-<reference_id>13d6a1ad7-0137-442a-9876-48b2188a29c7</reference_id>
+<referencenumber>3d6a1ad7-0137-442a-9876-48b2188a29c7</referencenumber>
 <external_id>2794</external_id>
 <title>
 <![CDATA[ CDL-A Regional Truck Driver ]]>
@@ -35,7 +36,7 @@
 </apply_url>
 </job>
 <job>
-<reference_id>152bc82fc-6339-4566-b28b-fdf66095549c</reference_id>
+<referencenumber>52bc82fc-6339-4566-b28b-fdf66095549c</referencenumber>
 <external_id>1971</external_id>
 <title>
 <![CDATA[ CDL-A Truck Driver ]]>
@@ -69,7 +70,7 @@
 </apply_url>
 </job>
 <job>
-<reference_id>192597a6b-29b1-426a-9e99-98f70dbe222d</reference_id>
+<referencenumber>92597a6b-29b1-426a-9e99-98f70dbe222d</referencenumber>
 <external_id>1965</external_id>
 <title>
 <![CDATA[ CDL-A Truck Driver ]]>
