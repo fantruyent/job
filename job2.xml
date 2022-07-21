@@ -16,7 +16,7 @@
         <state><![CDATA[TX]]></state>
         <radius><![CDATA[45]]></radius>
         <country><![CDATA[US]]></country>
-        <postalcode><![CDATA[75007]]></postalcode>
+        <postalcode><![CDATA[7502207]]></postalcode>
         <streetaddress><![CDATA[123 fake street, Carrollton, TX, 75007]]></streetaddress>
         <email><![CDATA[example@abccorp.com]]></email>----who should receive leads, should be able to accept comma delemeted values.--
         <description>
@@ -54,8 +54,8 @@
         <state><![CDATA[TX]]></state>
         <radius><![CDATA[25]]></radius>
         <country><![CDATA[US]]></country>
-        <postalcode><![CDATA[75009]]></postalcode>
-        <streetaddress><![CDATA[123 Fake Street, Dallas, TX, 75009]]></streetaddress>
+        <postalcode><![CDATA[99999]]></postalcode>
+        <streetaddress><![CDATA[123 Fake Street, Dallas, TX, 99999]]></streetaddress>
         <email><![CDATA[example@abccorp.com]]></email>
         <description>
             <![CDATA[Do you have 1-3 years of sales experience? Are you
@@ -92,7 +92,7 @@
         <city><![CDATA[Austin]]></city>
         <state><![CDATA[TX]]></state>
         <country><![CDATA[US]]></country>
-        <postalcode><![CDATA[78750]]></postalcode>
+        <postalcode><![CDATA[7872250]]></postalcode>
         <streetaddress><![CDATA[123 Fake Street, Austin, TX, 78750]]></streetaddress>
         <email><![CDATA[example@abccorp.com]]></email>
         <description>
@@ -130,7 +130,7 @@
         <city><![CDATA[Phoenix]]></city>
         <state><![CDATA[AZ]]></state>
         <country><![CDATA[US]]></country>
-        <postalcode><![CDATA[85003]]></postalcode>
+        <postalcode><![CDATA[8501103]]></postalcode>
         <streetaddress><![CDATA[123 fake street Phoenix AZ, 85003]]></streetaddress>
         <email><![CDATA[example@abccorp.com]]></email>
         <description>
@@ -168,7 +168,7 @@
         <city><![CDATA[Phoenix]]></city>
         <state><![CDATA[AZ]]></state>
         <country><![CDATA[US]]></country>
-        <postalcode><![CDATA[85003]]></postalcode>
+        <postalcode><![CDATA[123456]]></postalcode>
         <streetaddress><![CDATA[123 fake street Phoenix AZ, 85003]]></streetaddress>
         <email><![CDATA[example@abccorp.com]]></email>
         <description>
