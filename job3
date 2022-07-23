@@ -2,7 +2,7 @@
 <source>
 <jobcount>3052</jobcount>
 	<job>
-		<referencenumber>52bc82fc-6339-4566-b28b-fdf66095549c</referencenumber>
+		<reference_id>52bc82fc-6339-4566-b28b-fdf66095549c1</reference_id>
 		<external_id>1971</external_id>
 		<title>
 		<![CDATA[ CDL-A Truck Driver ]]>
@@ -36,7 +36,7 @@
 		</apply_url>
 	</job>
 		<job>
-		<referencenumber>52bc82fc-6339-4566-b28b-fdf66095549d</referencenumber>
+		<reference_id>52bc82fc-6339-4566-b28b-fdf66095549d1</reference_id>
 		<external_id>1972</external_id>
 		<title>
 		<![CDATA[ CDL-A Truck Driver ]]>
