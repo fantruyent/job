@@ -72,7 +72,7 @@ Reasonable accommodations are available for qualified individuals with disabilit
 		</benefit>	
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
-        <remotetype><![CDATA[In Person]]></remotetype>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
     </job>
       <job>
@@ -144,7 +144,7 @@ Reasonable accommodations are available for qualified individuals with disabilit
 		</benefit>	
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
-        <remotetype><![CDATA[In Person]]></remotetype>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
@@ -216,7 +216,7 @@ Reasonable accommodations are available for qualified individuals with disabilit
 		</benefit>	
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
-        <remotetype><![CDATA[In Person]]></remotetype>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
@@ -288,7 +288,7 @@ Reasonable accommodations are available for qualified individuals with disabilit
 		</benefit>	
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
-        <remotetype><![CDATA[In Person]]></remotetype>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
@@ -360,7 +360,7 @@ Reasonable accommodations are available for qualified individuals with disabilit
 		</benefit>	
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
-        <remotetype><![CDATA[In Person]]></remotetype>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
@@ -432,7 +432,7 @@ Reasonable accommodations are available for qualified individuals with disabilit
 		</benefit>	
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
-        <remotetype><![CDATA[In Person]]></remotetype>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
@@ -504,7 +504,7 @@ Reasonable accommodations are available for qualified individuals with disabilit
 		</benefit>	
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
-        <remotetype><![CDATA[In Person]]></remotetype>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
@@ -576,7 +576,7 @@ Reasonable accommodations are available for qualified individuals with disabilit
 		</benefit>	
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
-        <remotetype><![CDATA[In Person]]></remotetype>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
@@ -648,7 +648,7 @@ Reasonable accommodations are available for qualified individuals with disabilit
 		</benefit>	
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
-        <remotetype><![CDATA[In Person]]></remotetype>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
@@ -720,7 +720,7 @@ Reasonable accommodations are available for qualified individuals with disabilit
 		</benefit>	
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
-        <remotetype><![CDATA[In Person]]></remotetype>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
@@ -792,7 +792,7 @@ Reasonable accommodations are available for qualified individuals with disabilit
 		</benefit>	
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
-        <remotetype><![CDATA[In Person]]></remotetype>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
     </job>
 	    <job>
@@ -864,6 +864,6 @@ Reasonable accommodations are available for qualified individuals with disabilit
 		</benefit>	
         <experience><![CDATA[5+ years]]></experience>
         <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
-        <remotetype><![CDATA[In Person]]></remotetype>
+        <remotetype><![CDATA[IN_PERSON]]></remotetype>
         <workschedule><![CDATA[]]></workschedule>
 </source>
