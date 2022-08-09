@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+    <publisher>Facebook</publisher>
+    <publisherurl>https://www.facebook.com/</publisherurl>
+    <lastBuildDate>Mon, 09 Aug 2022 22:49:39 GMT</lastBuildDate>
+    <job>
+        <title><![CDATA[Package handler]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[UniqueID01]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID01&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Amazon]]></company>
+        <city><![CDATA[	West New York]]></city>
+        <state><![CDATA[New Jersey]]></state>
+        <radius><![CDATA[30]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[08817]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[IMMEDIATE OPENINGS!
+Come for a job and stay for a career! FedEx Ground is part of the rapidly growing warehouse and transportation sector that helps keep America, and our economy, moving. Be part of a winning team and workplace community that cares about who you are as an individual, and your safety in the workplace.
+
+Perks and Benefits at FedEx Ground
+
+Competitive wages paid weekly for both full and part time opportunities
+
+$5,250 tuition reimbursement every year with no lifetime cap! All employees are eligible for this awesome benefit on their first day of employment!
+
+Generous paid time off program – work your way up to 5 weeks of PTO a year!
+
+Medical, dental and vision benefits after a short waiting period.
+
+Flexible scheduling that helps balance your work and personal life.
+
+Valuable employee discounts on things like cell phone plans, electronics, cars and restaurants.
+
+Free Purple Pathways career development program for all FedEx Ground employees.
+
+Paid parental leave for both moms and dads!
+
+Employee networks, and diversity, equity and inclusion programs available for all employees.
+
+What you can expect at FedEx Ground:
+
+Fast paced and physical warehouse work – why pay for a gym membership when you can get paid while working out?
+
+Warehouse duties include loading, unloading, and sorting of packages of various sizes.
+
+Part time FedEx Ground employees work one shift a day; full time FedEx Ground employees work two shifts.
+
+Shift lengths vary based on package volume – generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.
+
+Overtime paid after 40 hours a week.
+
+Reasonable accommodations are available for qualified individuals with disabilities.]]>
+        </description>
+        <salary><![CDATA[5000 Monthly]]></salary>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[Part Time]]></jobtype>
+        <major_category><![CDATA[Transportation & Logistics]]></major_category>
+        <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Able to lift 50 lbs]]></requirement1>
+			<requirement2><![CDATA[Able to operate a forklift]]></requirement2>
+        </requirements>
+		<benefit><![CDATA[Health Care,401k with Match,Promote from Within]]></benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[In Person]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+      <job>
+        <title><![CDATA[Package handler]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[UniqueID01]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID01&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Amazon]]></company>
+        <city><![CDATA[Edison]]></city>
+        <state><![CDATA[New Jersey]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[08817]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[IMMEDIATE OPENINGS!
+Come for a job and stay for a career! FedEx Ground is part of the rapidly growing warehouse and transportation sector that helps keep America, and our economy, moving. Be part of a winning team and workplace community that cares about who you are as an individual, and your safety in the workplace.
+
+Perks and Benefits at FedEx Ground
+
+Competitive wages paid weekly for both full and part time opportunities
+
+$5,250 tuition reimbursement every year with no lifetime cap! All employees are eligible for this awesome benefit on their first day of employment!
+
+Generous paid time off program – work your way up to 5 weeks of PTO a year!
+
+Medical, dental and vision benefits after a short waiting period.
+
+Flexible scheduling that helps balance your work and personal life.
+
+Valuable employee discounts on things like cell phone plans, electronics, cars and restaurants.
+
+Free Purple Pathways career development program for all FedEx Ground employees.
+
+Paid parental leave for both moms and dads!
+
+Employee networks, and diversity, equity and inclusion programs available for all employees.
+
+What you can expect at FedEx Ground:
+
+Fast paced and physical warehouse work – why pay for a gym membership when you can get paid while working out?
+
+Warehouse duties include loading, unloading, and sorting of packages of various sizes.
+
+Part time FedEx Ground employees work one shift a day; full time FedEx Ground employees work two shifts.
+
+Shift lengths vary based on package volume – generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.
+
+Overtime paid after 40 hours a week.
+
+Reasonable accommodations are available for qualified individuals with disabilities.]]>
+        </description>
+        <salary><![CDATA[5000 Monthly]]></salary>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[Part Time]]></jobtype>
+        <major_category><![CDATA[Transportation & Logistics]]></major_category>
+        <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Able to lift 50 lbs]]></requirement1>
+			<requirement2><![CDATA[Able to operate a forklift]]></requirement2>
+        </requirements>
+		<benefit><![CDATA[Health Care,401k with Match,Promote from Within]]></benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[In Person]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[Package handler]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[UniqueID01]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID01&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Amazon]]></company>
+        <city><![CDATA[New Brunswick]]></city>
+        <state><![CDATA[New Jersey]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[08817]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[IMMEDIATE OPENINGS!
+Come for a job and stay for a career! FedEx Ground is part of the rapidly growing warehouse and transportation sector that helps keep America, and our economy, moving. Be part of a winning team and workplace community that cares about who you are as an individual, and your safety in the workplace.
+
+Perks and Benefits at FedEx Ground
+
+Competitive wages paid weekly for both full and part time opportunities
+
+$5,250 tuition reimbursement every year with no lifetime cap! All employees are eligible for this awesome benefit on their first day of employment!
+
+Generous paid time off program – work your way up to 5 weeks of PTO a year!
+
+Medical, dental and vision benefits after a short waiting period.
+
+Flexible scheduling that helps balance your work and personal life.
+
+Valuable employee discounts on things like cell phone plans, electronics, cars and restaurants.
+
+Free Purple Pathways career development program for all FedEx Ground employees.
+
+Paid parental leave for both moms and dads!
+
+Employee networks, and diversity, equity and inclusion programs available for all employees.
+
+What you can expect at FedEx Ground:
+
+Fast paced and physical warehouse work – why pay for a gym membership when you can get paid while working out?
+
+Warehouse duties include loading, unloading, and sorting of packages of various sizes.
+
+Part time FedEx Ground employees work one shift a day; full time FedEx Ground employees work two shifts.
+
+Shift lengths vary based on package volume – generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.
+
+Overtime paid after 40 hours a week.
+
+Reasonable accommodations are available for qualified individuals with disabilities.]]>
+        </description>
+        <salary><![CDATA[5000 Monthly]]></salary>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[Part Time]]></jobtype>
+        <major_category><![CDATA[Transportation & Logistics]]></major_category>
+        <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Able to lift 50 lbs]]></requirement1>
+			<requirement2><![CDATA[Able to operate a forklift]]></requirement2>
+        </requirements>
+		<benefit><![CDATA[Health Care,401k with Match,Promote from Within]]></benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[In Person]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[Package handler]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[UniqueID02]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID02&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Amazon]]></company>
+        <city><![CDATA[Newark]]></city>
+        <state><![CDATA[Ohio]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[08817]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[IMMEDIATE OPENINGS!
+Come for a job and stay for a career! FedEx Ground is part of the rapidly growing warehouse and transportation sector that helps keep America, and our economy, moving. Be part of a winning team and workplace community that cares about who you are as an individual, and your safety in the workplace.
+
+Perks and Benefits at FedEx Ground
+
+Competitive wages paid weekly for both full and part time opportunities
+
+$5,250 tuition reimbursement every year with no lifetime cap! All employees are eligible for this awesome benefit on their first day of employment!
+
+Generous paid time off program – work your way up to 5 weeks of PTO a year!
+
+Medical, dental and vision benefits after a short waiting period.
+
+Flexible scheduling that helps balance your work and personal life.
+
+Valuable employee discounts on things like cell phone plans, electronics, cars and restaurants.
+
+Free Purple Pathways career development program for all FedEx Ground employees.
+
+Paid parental leave for both moms and dads!
+
+Employee networks, and diversity, equity and inclusion programs available for all employees.
+
+What you can expect at FedEx Ground:
+
+Fast paced and physical warehouse work – why pay for a gym membership when you can get paid while working out?
+
+Warehouse duties include loading, unloading, and sorting of packages of various sizes.
+
+Part time FedEx Ground employees work one shift a day; full time FedEx Ground employees work two shifts.
+
+Shift lengths vary based on package volume – generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.
+
+Overtime paid after 40 hours a week.
+
+Reasonable accommodations are available for qualified individuals with disabilities.]]>
+        </description>
+        <salary><![CDATA[5000 Monthly]]></salary>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[Part Time]]></jobtype>
+        <major_category><![CDATA[Transportation & Logistics]]></major_category>
+        <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Able to lift 50 lbs]]></requirement1>
+			<requirement2><![CDATA[Able to operate a forklift]]></requirement2>
+        </requirements>
+		<benefit><![CDATA[Health Care,401k with Match,Promote from Within]]></benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[In Person]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[Package handler]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[UniqueID03]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID03&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Amazon]]></company>
+        <city><![CDATA[Corona]]></city>
+        <state><![CDATA[New York]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[08817]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[IMMEDIATE OPENINGS!
+Come for a job and stay for a career! FedEx Ground is part of the rapidly growing warehouse and transportation sector that helps keep America, and our economy, moving. Be part of a winning team and workplace community that cares about who you are as an individual, and your safety in the workplace.
+
+Perks and Benefits at FedEx Ground
+
+Competitive wages paid weekly for both full and part time opportunities
+
+$5,250 tuition reimbursement every year with no lifetime cap! All employees are eligible for this awesome benefit on their first day of employment!
+
+Generous paid time off program – work your way up to 5 weeks of PTO a year!
+
+Medical, dental and vision benefits after a short waiting period.
+
+Flexible scheduling that helps balance your work and personal life.
+
+Valuable employee discounts on things like cell phone plans, electronics, cars and restaurants.
+
+Free Purple Pathways career development program for all FedEx Ground employees.
+
+Paid parental leave for both moms and dads!
+
+Employee networks, and diversity, equity and inclusion programs available for all employees.
+
+What you can expect at FedEx Ground:
+
+Fast paced and physical warehouse work – why pay for a gym membership when you can get paid while working out?
+
+Warehouse duties include loading, unloading, and sorting of packages of various sizes.
+
+Part time FedEx Ground employees work one shift a day; full time FedEx Ground employees work two shifts.
+
+Shift lengths vary based on package volume – generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.
+
+Overtime paid after 40 hours a week.
+
+Reasonable accommodations are available for qualified individuals with disabilities.]]>
+        </description>
+        <salary><![CDATA[5000 Monthly]]></salary>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[Part Time]]></jobtype>
+        <major_category><![CDATA[Transportation & Logistics]]></major_category>
+        <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Able to lift 50 lbs]]></requirement1>
+			<requirement2><![CDATA[Able to operate a forklift]]></requirement2>
+        </requirements>
+		<benefit><![CDATA[Health Care,401k with Match,Promote from Within]]></benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[In Person]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[Package handler]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[UniqueID04]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID04&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Amazon]]></company>
+        <city><![CDATA[Katy]]></city>
+        <state><![CDATA[New York]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[08817]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[IMMEDIATE OPENINGS!
+Come for a job and stay for a career! FedEx Ground is part of the rapidly growing warehouse and transportation sector that helps keep America, and our economy, moving. Be part of a winning team and workplace community that cares about who you are as an individual, and your safety in the workplace.
+
+Perks and Benefits at FedEx Ground
+
+Competitive wages paid weekly for both full and part time opportunities
+
+$5,250 tuition reimbursement every year with no lifetime cap! All employees are eligible for this awesome benefit on their first day of employment!
+
+Generous paid time off program – work your way up to 5 weeks of PTO a year!
+
+Medical, dental and vision benefits after a short waiting period.
+
+Flexible scheduling that helps balance your work and personal life.
+
+Valuable employee discounts on things like cell phone plans, electronics, cars and restaurants.
+
+Free Purple Pathways career development program for all FedEx Ground employees.
+
+Paid parental leave for both moms and dads!
+
+Employee networks, and diversity, equity and inclusion programs available for all employees.
+
+What you can expect at FedEx Ground:
+
+Fast paced and physical warehouse work – why pay for a gym membership when you can get paid while working out?
+
+Warehouse duties include loading, unloading, and sorting of packages of various sizes.
+
+Part time FedEx Ground employees work one shift a day; full time FedEx Ground employees work two shifts.
+
+Shift lengths vary based on package volume – generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.
+
+Overtime paid after 40 hours a week.
+
+Reasonable accommodations are available for qualified individuals with disabilities.]]>
+        </description>
+        <salary><![CDATA[5000 Monthly]]></salary>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[Part Time]]></jobtype>
+        <major_category><![CDATA[Transportation & Logistics]]></major_category>
+        <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Able to lift 50 lbs]]></requirement1>
+			<requirement2><![CDATA[Able to operate a forklift]]></requirement2>
+        </requirements>
+		<benefit><![CDATA[Health Care,401k with Match,Promote from Within]]></benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[In Person]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[Package handler]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[UniqueID05]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID05&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Amazon]]></company>
+        <city><![CDATA[South Gate]]></city>
+        <state><![CDATA[California]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[08817]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[IMMEDIATE OPENINGS!
+Come for a job and stay for a career! FedEx Ground is part of the rapidly growing warehouse and transportation sector that helps keep America, and our economy, moving. Be part of a winning team and workplace community that cares about who you are as an individual, and your safety in the workplace.
+
+Perks and Benefits at FedEx Ground
+
+Competitive wages paid weekly for both full and part time opportunities
+
+$5,250 tuition reimbursement every year with no lifetime cap! All employees are eligible for this awesome benefit on their first day of employment!
+
+Generous paid time off program – work your way up to 5 weeks of PTO a year!
+
+Medical, dental and vision benefits after a short waiting period.
+
+Flexible scheduling that helps balance your work and personal life.
+
+Valuable employee discounts on things like cell phone plans, electronics, cars and restaurants.
+
+Free Purple Pathways career development program for all FedEx Ground employees.
+
+Paid parental leave for both moms and dads!
+
+Employee networks, and diversity, equity and inclusion programs available for all employees.
+
+What you can expect at FedEx Ground:
+
+Fast paced and physical warehouse work – why pay for a gym membership when you can get paid while working out?
+
+Warehouse duties include loading, unloading, and sorting of packages of various sizes.
+
+Part time FedEx Ground employees work one shift a day; full time FedEx Ground employees work two shifts.
+
+Shift lengths vary based on package volume – generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.
+
+Overtime paid after 40 hours a week.
+
+Reasonable accommodations are available for qualified individuals with disabilities.]]>
+        </description>
+        <salary><![CDATA[5000 Monthly]]></salary>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[Part Time]]></jobtype>
+        <major_category><![CDATA[Transportation & Logistics]]></major_category>
+        <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Able to lift 50 lbs]]></requirement1>
+			<requirement2><![CDATA[Able to operate a forklift]]></requirement2>
+        </requirements>
+		<benefit><![CDATA[Health Care,401k with Match,Promote from Within]]></benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[In Person]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[Package handler]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[UniqueID06]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID06&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Amazon]]></company>
+        <city><![CDATA[Edison]]></city>
+        <state><![CDATA[New Jersey]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[08817]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[IMMEDIATE OPENINGS!
+Come for a job and stay for a career! FedEx Ground is part of the rapidly growing warehouse and transportation sector that helps keep America, and our economy, moving. Be part of a winning team and workplace community that cares about who you are as an individual, and your safety in the workplace.
+
+Perks and Benefits at FedEx Ground
+
+Competitive wages paid weekly for both full and part time opportunities
+
+$5,250 tuition reimbursement every year with no lifetime cap! All employees are eligible for this awesome benefit on their first day of employment!
+
+Generous paid time off program – work your way up to 5 weeks of PTO a year!
+
+Medical, dental and vision benefits after a short waiting period.
+
+Flexible scheduling that helps balance your work and personal life.
+
+Valuable employee discounts on things like cell phone plans, electronics, cars and restaurants.
+
+Free Purple Pathways career development program for all FedEx Ground employees.
+
+Paid parental leave for both moms and dads!
+
+Employee networks, and diversity, equity and inclusion programs available for all employees.
+
+What you can expect at FedEx Ground:
+
+Fast paced and physical warehouse work – why pay for a gym membership when you can get paid while working out?
+
+Warehouse duties include loading, unloading, and sorting of packages of various sizes.
+
+Part time FedEx Ground employees work one shift a day; full time FedEx Ground employees work two shifts.
+
+Shift lengths vary based on package volume – generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.
+
+Overtime paid after 40 hours a week.
+
+Reasonable accommodations are available for qualified individuals with disabilities.]]>
+        </description>
+        <salary><![CDATA[5000 Monthly]]></salary>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[Part Time]]></jobtype>
+        <major_category><![CDATA[Transportation & Logistics]]></major_category>
+        <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Able to lift 50 lbs]]></requirement1>
+			<requirement2><![CDATA[Able to operate a forklift]]></requirement2>
+        </requirements>
+		<benefit><![CDATA[Health Care,401k with Match,Promote from Within]]></benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[In Person]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[Package handler]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[UniqueID07]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID07&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Amazon]]></company>
+        <city><![CDATA[Lakewood]]></city>
+        <state><![CDATA[New Jersey]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[08817]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[IMMEDIATE OPENINGS!
+Come for a job and stay for a career! FedEx Ground is part of the rapidly growing warehouse and transportation sector that helps keep America, and our economy, moving. Be part of a winning team and workplace community that cares about who you are as an individual, and your safety in the workplace.
+
+Perks and Benefits at FedEx Ground
+
+Competitive wages paid weekly for both full and part time opportunities
+
+$5,250 tuition reimbursement every year with no lifetime cap! All employees are eligible for this awesome benefit on their first day of employment!
+
+Generous paid time off program – work your way up to 5 weeks of PTO a year!
+
+Medical, dental and vision benefits after a short waiting period.
+
+Flexible scheduling that helps balance your work and personal life.
+
+Valuable employee discounts on things like cell phone plans, electronics, cars and restaurants.
+
+Free Purple Pathways career development program for all FedEx Ground employees.
+
+Paid parental leave for both moms and dads!
+
+Employee networks, and diversity, equity and inclusion programs available for all employees.
+
+What you can expect at FedEx Ground:
+
+Fast paced and physical warehouse work – why pay for a gym membership when you can get paid while working out?
+
+Warehouse duties include loading, unloading, and sorting of packages of various sizes.
+
+Part time FedEx Ground employees work one shift a day; full time FedEx Ground employees work two shifts.
+
+Shift lengths vary based on package volume – generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.
+
+Overtime paid after 40 hours a week.
+
+Reasonable accommodations are available for qualified individuals with disabilities.]]>
+        </description>
+        <salary><![CDATA[5000 Monthly]]></salary>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[Part Time]]></jobtype>
+        <major_category><![CDATA[Transportation & Logistics]]></major_category>
+        <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Able to lift 50 lbs]]></requirement1>
+			<requirement2><![CDATA[Able to operate a forklift]]></requirement2>
+        </requirements>
+		<benefit><![CDATA[Health Care,401k with Match,Promote from Within]]></benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[In Person]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[Package handler]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[UniqueID08]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID08&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Amazon]]></company>
+        <city><![CDATA[Bell Gardens]]></city>
+        <state><![CDATA[California]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[08817]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[IMMEDIATE OPENINGS!
+Come for a job and stay for a career! FedEx Ground is part of the rapidly growing warehouse and transportation sector that helps keep America, and our economy, moving. Be part of a winning team and workplace community that cares about who you are as an individual, and your safety in the workplace.
+
+Perks and Benefits at FedEx Ground
+
+Competitive wages paid weekly for both full and part time opportunities
+
+$5,250 tuition reimbursement every year with no lifetime cap! All employees are eligible for this awesome benefit on their first day of employment!
+
+Generous paid time off program – work your way up to 5 weeks of PTO a year!
+
+Medical, dental and vision benefits after a short waiting period.
+
+Flexible scheduling that helps balance your work and personal life.
+
+Valuable employee discounts on things like cell phone plans, electronics, cars and restaurants.
+
+Free Purple Pathways career development program for all FedEx Ground employees.
+
+Paid parental leave for both moms and dads!
+
+Employee networks, and diversity, equity and inclusion programs available for all employees.
+
+What you can expect at FedEx Ground:
+
+Fast paced and physical warehouse work – why pay for a gym membership when you can get paid while working out?
+
+Warehouse duties include loading, unloading, and sorting of packages of various sizes.
+
+Part time FedEx Ground employees work one shift a day; full time FedEx Ground employees work two shifts.
+
+Shift lengths vary based on package volume – generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.
+
+Overtime paid after 40 hours a week.
+
+Reasonable accommodations are available for qualified individuals with disabilities.]]>
+        </description>
+        <salary><![CDATA[5000 Monthly]]></salary>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[Part Time]]></jobtype>
+        <major_category><![CDATA[Transportation & Logistics]]></major_category>
+        <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Able to lift 50 lbs]]></requirement1>
+			<requirement2><![CDATA[Able to operate a forklift]]></requirement2>
+        </requirements>
+		<benefit><![CDATA[Health Care,401k with Match,Promote from Within]]></benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[In Person]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[Package handler]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[UniqueID09]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID09&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Amazon]]></company>
+        <city><![CDATA[Texas City]]></city>
+        <state><![CDATA[Texas]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[08817]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[IMMEDIATE OPENINGS!
+Come for a job and stay for a career! FedEx Ground is part of the rapidly growing warehouse and transportation sector that helps keep America, and our economy, moving. Be part of a winning team and workplace community that cares about who you are as an individual, and your safety in the workplace.
+
+Perks and Benefits at FedEx Ground
+
+Competitive wages paid weekly for both full and part time opportunities
+
+$5,250 tuition reimbursement every year with no lifetime cap! All employees are eligible for this awesome benefit on their first day of employment!
+
+Generous paid time off program – work your way up to 5 weeks of PTO a year!
+
+Medical, dental and vision benefits after a short waiting period.
+
+Flexible scheduling that helps balance your work and personal life.
+
+Valuable employee discounts on things like cell phone plans, electronics, cars and restaurants.
+
+Free Purple Pathways career development program for all FedEx Ground employees.
+
+Paid parental leave for both moms and dads!
+
+Employee networks, and diversity, equity and inclusion programs available for all employees.
+
+What you can expect at FedEx Ground:
+
+Fast paced and physical warehouse work – why pay for a gym membership when you can get paid while working out?
+
+Warehouse duties include loading, unloading, and sorting of packages of various sizes.
+
+Part time FedEx Ground employees work one shift a day; full time FedEx Ground employees work two shifts.
+
+Shift lengths vary based on package volume – generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.
+
+Overtime paid after 40 hours a week.
+
+Reasonable accommodations are available for qualified individuals with disabilities.]]>
+        </description>
+        <salary><![CDATA[5000 Monthly]]></salary>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[Part Time]]></jobtype>
+        <major_category><![CDATA[Transportation & Logistics]]></major_category>
+        <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Able to lift 50 lbs]]></requirement1>
+			<requirement2><![CDATA[Able to operate a forklift]]></requirement2>
+        </requirements>
+		<benefit><![CDATA[Health Care,401k with Match,Promote from Within]]></benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[In Person]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+    </job>
+	    <job>
+        <title><![CDATA[Package handler]]></title>
+        <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
+        <referencenumber><![CDATA[UniqueID010]]></referencenumber>
+        <url>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID01&amp;source=Indeed]]>
+        </url>
+        <company><![CDATA[Amazon]]></company>
+        <city><![CDATA[Texarkana]]></city>
+        <state><![CDATA[Texas]]></state>
+        <radius><![CDATA[45]]></radius>
+        <country><![CDATA[US]]></country>
+        <postalcode><![CDATA[08817]]></postalcode>
+        <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
+        <email><![CDATA[example@abccorp.com]]></email>
+        <description>
+            <![CDATA[IMMEDIATE OPENINGS!
+Come for a job and stay for a career! FedEx Ground is part of the rapidly growing warehouse and transportation sector that helps keep America, and our economy, moving. Be part of a winning team and workplace community that cares about who you are as an individual, and your safety in the workplace.
+
+Perks and Benefits at FedEx Ground
+
+Competitive wages paid weekly for both full and part time opportunities
+
+$5,250 tuition reimbursement every year with no lifetime cap! All employees are eligible for this awesome benefit on their first day of employment!
+
+Generous paid time off program – work your way up to 5 weeks of PTO a year!
+
+Medical, dental and vision benefits after a short waiting period.
+
+Flexible scheduling that helps balance your work and personal life.
+
+Valuable employee discounts on things like cell phone plans, electronics, cars and restaurants.
+
+Free Purple Pathways career development program for all FedEx Ground employees.
+
+Paid parental leave for both moms and dads!
+
+Employee networks, and diversity, equity and inclusion programs available for all employees.
+
+What you can expect at FedEx Ground:
+
+Fast paced and physical warehouse work – why pay for a gym membership when you can get paid while working out?
+
+Warehouse duties include loading, unloading, and sorting of packages of various sizes.
+
+Part time FedEx Ground employees work one shift a day; full time FedEx Ground employees work two shifts.
+
+Shift lengths vary based on package volume – generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.
+
+Overtime paid after 40 hours a week.
+
+Reasonable accommodations are available for qualified individuals with disabilities.]]>
+        </description>
+        <salary><![CDATA[5000 Monthly]]></salary>
+        <education><![CDATA[N/A]]></education>
+        <jobtype><![CDATA[Part Time]]></jobtype>
+        <major_category><![CDATA[Transportation & Logistics]]></major_category>
+        <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
+        <requirements>
+            <requirement1><![CDATA[Able to lift 50 lbs]]></requirement1>
+			<requirement2><![CDATA[Able to operate a forklift]]></requirement2>
+        </requirements>
+		<benefit><![CDATA[Health Care,401k with Match,Promote from Within]]></benefit>
+        <experience><![CDATA[5+ years]]></experience>
+        <expirationdate><![CDATA[Tue, 08 Nov 2022]]></expirationdate>
+        <remotetype><![CDATA[In Person]]></remotetype>
+        <workschedule><![CDATA[]]></workschedule>
+</source>
