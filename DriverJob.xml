@@ -6,7 +6,7 @@
     <job>
         <title><![CDATA[Driver]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[DIU01]]></referencenumber>
+        <referencenumber><![CDATA[IUD01]]></referencenumber>
         <url>
             <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=DIU01&amp;source=Indeed]]>
         </url>
@@ -597,7 +597,7 @@ This job posting includes information about the minimum qualifications (includin
 
 UPS is an equal opportunity employer. UPS does not discriminate on the basis of race/color/religion/sex/national origin/veteran/disability/age/sexual orientation/gender identity or any other characteristic protected by law]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[CAD 6000 Daily]]></salary>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[FULL_TIME]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
