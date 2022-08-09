@@ -13,7 +13,7 @@
         <company><![CDATA[UPS]]></company>
         <city><![CDATA[	West New York]]></city>
         <state><![CDATA[New Jersey]]></state>
-        <raIUDs><![CDATA[30]]></raIUDs>
+        <radius><![CDATA[30]]></radius>
         <country><![CDATA[US]]></country>
         <postalcode><![CDATA[08817]]></postalcode>
         <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
@@ -65,7 +65,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <company><![CDATA[UPS]]></company>
         <city><![CDATA[Edison]]></city>
         <state><![CDATA[New Jersey]]></state>
-        <raIUDs><![CDATA[45]]></raIUDs>
+        <radius><![CDATA[45]]></radius>
         <country><![CDATA[US]]></country>
         <postalcode><![CDATA[08817]]></postalcode>
         <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
@@ -119,7 +119,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <company><![CDATA[UPS]]></company>
         <city><![CDATA[New Brunswick]]></city>
         <state><![CDATA[New Jersey]]></state>
-        <raIUDs><![CDATA[45]]></raIUDs>
+        <radius><![CDATA[45]]></radius>
         <country><![CDATA[US]]></country>
         <postalcode><![CDATA[08817]]></postalcode>
         <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
@@ -174,7 +174,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <company><![CDATA[UPS]]></company>
         <city><![CDATA[Newark]]></city>
         <state><![CDATA[Ohio]]></state>
-        <raIUDs><![CDATA[45]]></raIUDs>
+        <radius><![CDATA[45]]></radius>
         <country><![CDATA[US]]></country>
         <postalcode><![CDATA[08817]]></postalcode>
         <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
@@ -229,7 +229,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <company><![CDATA[UPS]]></company>
         <city><![CDATA[Corona]]></city>
         <state><![CDATA[New York]]></state>
-        <raIUDs><![CDATA[45]]></raIUDs>
+        <radius><![CDATA[45]]></radius>
         <country><![CDATA[US]]></country>
         <postalcode><![CDATA[08817]]></postalcode>
         <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
@@ -284,7 +284,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <company><![CDATA[UPS]]></company>
         <city><![CDATA[Katy]]></city>
         <state><![CDATA[New York]]></state>
-        <raIUDs><![CDATA[45]]></raIUDs>
+        <radius><![CDATA[45]]></radius>
         <country><![CDATA[US]]></country>
         <postalcode><![CDATA[08817]]></postalcode>
         <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
@@ -339,7 +339,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <company><![CDATA[UPS]]></company>
         <city><![CDATA[South Gate]]></city>
         <state><![CDATA[California]]></state>
-        <raIUDs><![CDATA[45]]></raIUDs>
+        <radius><![CDATA[45]]></radius>
         <country><![CDATA[US]]></country>
         <postalcode><![CDATA[08817]]></postalcode>
         <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
@@ -394,7 +394,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <company><![CDATA[UPS]]></company>
         <city><![CDATA[Edison]]></city>
         <state><![CDATA[New Jersey]]></state>
-        <raIUDs><![CDATA[45]]></raIUDs>
+        <radius><![CDATA[45]]></radius>
         <country><![CDATA[US]]></country>
         <postalcode><![CDATA[08817]]></postalcode>
         <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
@@ -449,7 +449,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <company><![CDATA[UPS]]></company>
         <city><![CDATA[Lakewood]]></city>
         <state><![CDATA[New Jersey]]></state>
-        <raIUDs><![CDATA[45]]></raIUDs>
+        <radius><![CDATA[45]]></radius>
         <country><![CDATA[US]]></country>
         <postalcode><![CDATA[08817]]></postalcode>
         <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
@@ -504,7 +504,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <company><![CDATA[UPS]]></company>
         <city><![CDATA[Bell Gardens]]></city>
         <state><![CDATA[California]]></state>
-        <raIUDs><![CDATA[45]]></raIUDs>
+        <radius><![CDATA[45]]></radius>
         <country><![CDATA[US]]></country>
         <postalcode><![CDATA[08817]]></postalcode>
         <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
@@ -559,7 +559,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <company><![CDATA[UPS]]></company>
         <city><![CDATA[Texas City]]></city>
         <state><![CDATA[Texas]]></state>
-        <raIUDs><![CDATA[45]]></raIUDs>
+        <radius><![CDATA[45]]></radius>
         <country><![CDATA[US]]></country>
         <postalcode><![CDATA[08817]]></postalcode>
         <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
@@ -614,7 +614,7 @@ UPS is an equal opportunity employer. UPS does not discriminate on the basis of 
         <company><![CDATA[UPS]]></company>
         <city><![CDATA[Texarkana]]></city>
         <state><![CDATA[Texas]]></state>
-        <raIUDs><![CDATA[45]]></raIUDs>
+        <radius><![CDATA[45]]></radius>
         <country><![CDATA[US]]></country>
         <postalcode><![CDATA[08817]]></postalcode>
         <streetaddress><![CDATA[FXG-US/USA/P072/Metuchen Hub]]></streetaddress>
