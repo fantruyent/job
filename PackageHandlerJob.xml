@@ -6,9 +6,9 @@
     <job>
         <title><![CDATA[Package handler]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[UniqueID01]]></referencenumber>
+        <referencenumber><![CDATA[IDUnique01]]></referencenumber>
         <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID01&amp;source=Indeed]]>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IDUnique01&amp;source=Indeed]]>
         </url>
         <company><![CDATA[Amazon]]></company>
         <city><![CDATA[	West New York]]></city>
@@ -56,7 +56,7 @@ Overtime paid after 40 hours a week.
 
 Reasonable accommodations are available for qualified individuals with disabilities.]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[USD 5000 Weekly]]></salary>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[Part Time]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -78,9 +78,9 @@ Reasonable accommodations are available for qualified individuals with disabilit
       <job>
         <title><![CDATA[Package handler]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[UniqueID01]]></referencenumber>
+        <referencenumber><![CDATA[IDUnique01]]></referencenumber>
         <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID01&amp;source=Indeed]]>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IDUnique01&amp;source=Indeed]]>
         </url>
         <company><![CDATA[Amazon]]></company>
         <city><![CDATA[Edison]]></city>
@@ -128,7 +128,7 @@ Overtime paid after 40 hours a week.
 
 Reasonable accommodations are available for qualified individuals with disabilities.]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[USD 5000 Weekly]]></salary>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[Part Time]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -150,9 +150,9 @@ Reasonable accommodations are available for qualified individuals with disabilit
 	    <job>
         <title><![CDATA[Package handler]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[UniqueID01]]></referencenumber>
+        <referencenumber><![CDATA[IDUnique01]]></referencenumber>
         <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID01&amp;source=Indeed]]>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IDUnique01&amp;source=Indeed]]>
         </url>
         <company><![CDATA[Amazon]]></company>
         <city><![CDATA[New Brunswick]]></city>
@@ -200,7 +200,7 @@ Overtime paid after 40 hours a week.
 
 Reasonable accommodations are available for qualified individuals with disabilities.]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[USD 5000 Weekly]]></salary>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[Part Time]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -222,9 +222,9 @@ Reasonable accommodations are available for qualified individuals with disabilit
 	    <job>
         <title><![CDATA[Package handler]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[UniqueID02]]></referencenumber>
+        <referencenumber><![CDATA[IDUnique02]]></referencenumber>
         <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID02&amp;source=Indeed]]>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IDUnique02&amp;source=Indeed]]>
         </url>
         <company><![CDATA[Amazon]]></company>
         <city><![CDATA[Newark]]></city>
@@ -272,7 +272,7 @@ Overtime paid after 40 hours a week.
 
 Reasonable accommodations are available for qualified individuals with disabilities.]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[USD 5000 Weekly]]></salary>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[Part Time]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -294,9 +294,9 @@ Reasonable accommodations are available for qualified individuals with disabilit
 	    <job>
         <title><![CDATA[Package handler]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[UniqueID03]]></referencenumber>
+        <referencenumber><![CDATA[IDUnique03]]></referencenumber>
         <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID03&amp;source=Indeed]]>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IDUnique03&amp;source=Indeed]]>
         </url>
         <company><![CDATA[Amazon]]></company>
         <city><![CDATA[Corona]]></city>
@@ -344,7 +344,7 @@ Overtime paid after 40 hours a week.
 
 Reasonable accommodations are available for qualified individuals with disabilities.]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[USD 5000 Weekly]]></salary>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[Part Time]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -366,9 +366,9 @@ Reasonable accommodations are available for qualified individuals with disabilit
 	    <job>
         <title><![CDATA[Package handler]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[UniqueID04]]></referencenumber>
+        <referencenumber><![CDATA[IDUnique04]]></referencenumber>
         <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID04&amp;source=Indeed]]>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IDUnique04&amp;source=Indeed]]>
         </url>
         <company><![CDATA[Amazon]]></company>
         <city><![CDATA[Katy]]></city>
@@ -416,7 +416,7 @@ Overtime paid after 40 hours a week.
 
 Reasonable accommodations are available for qualified individuals with disabilities.]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[USD 5000 Weekly]]></salary>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[Part Time]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -438,9 +438,9 @@ Reasonable accommodations are available for qualified individuals with disabilit
 	    <job>
         <title><![CDATA[Package handler]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[UniqueID05]]></referencenumber>
+        <referencenumber><![CDATA[IDUnique05]]></referencenumber>
         <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID05&amp;source=Indeed]]>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IDUnique05&amp;source=Indeed]]>
         </url>
         <company><![CDATA[Amazon]]></company>
         <city><![CDATA[South Gate]]></city>
@@ -488,7 +488,7 @@ Overtime paid after 40 hours a week.
 
 Reasonable accommodations are available for qualified individuals with disabilities.]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[USD 5000 Weekly]]></salary>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[Part Time]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -510,9 +510,9 @@ Reasonable accommodations are available for qualified individuals with disabilit
 	    <job>
         <title><![CDATA[Package handler]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[UniqueID06]]></referencenumber>
+        <referencenumber><![CDATA[IDUnique06]]></referencenumber>
         <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID06&amp;source=Indeed]]>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IDUnique06&amp;source=Indeed]]>
         </url>
         <company><![CDATA[Amazon]]></company>
         <city><![CDATA[Edison]]></city>
@@ -560,7 +560,7 @@ Overtime paid after 40 hours a week.
 
 Reasonable accommodations are available for qualified individuals with disabilities.]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[USD 5000 Weekly]]></salary>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[Part Time]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -582,9 +582,9 @@ Reasonable accommodations are available for qualified individuals with disabilit
 	    <job>
         <title><![CDATA[Package handler]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[UniqueID07]]></referencenumber>
+        <referencenumber><![CDATA[IDUnique07]]></referencenumber>
         <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID07&amp;source=Indeed]]>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IDUnique07&amp;source=Indeed]]>
         </url>
         <company><![CDATA[Amazon]]></company>
         <city><![CDATA[Lakewood]]></city>
@@ -632,7 +632,7 @@ Overtime paid after 40 hours a week.
 
 Reasonable accommodations are available for qualified individuals with disabilities.]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[USD 5000 Weekly]]></salary>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[Part Time]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -654,9 +654,9 @@ Reasonable accommodations are available for qualified individuals with disabilit
 	    <job>
         <title><![CDATA[Package handler]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[UniqueID08]]></referencenumber>
+        <referencenumber><![CDATA[IDUnique08]]></referencenumber>
         <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID08&amp;source=Indeed]]>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IDUnique08&amp;source=Indeed]]>
         </url>
         <company><![CDATA[Amazon]]></company>
         <city><![CDATA[Bell Gardens]]></city>
@@ -704,9 +704,9 @@ Overtime paid after 40 hours a week.
 
 Reasonable accommodations are available for qualified individuals with disabilities.]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[USD 5000 Weekly]]></salary>
         <education><![CDATA[N/A]]></education>
-        <jobtype><![CDATA[Part Time]]></jobtype>
+        <jobtype><![CDATA[PART_TIME]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
         <minor_category><![CDATA[Driver Helper - Non CDL]]></minor_category> 
         <requirements>
@@ -726,9 +726,9 @@ Reasonable accommodations are available for qualified individuals with disabilit
 	    <job>
         <title><![CDATA[Package handler]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[UniqueID09]]></referencenumber>
+        <referencenumber><![CDATA[IDUnique09]]></referencenumber>
         <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID09&amp;source=Indeed]]>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IDUnique09&amp;source=Indeed]]>
         </url>
         <company><![CDATA[Amazon]]></company>
         <city><![CDATA[Texas City]]></city>
@@ -776,7 +776,7 @@ Overtime paid after 40 hours a week.
 
 Reasonable accommodations are available for qualified individuals with disabilities.]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[USD 5000 Weekly]]></salary>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[Part Time]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
@@ -798,9 +798,9 @@ Reasonable accommodations are available for qualified individuals with disabilit
 	    <job>
         <title><![CDATA[Package handler]]></title>
         <date><![CDATA[Tue, 29 Jun 2021 22:49:39 GMT]]></date>
-        <referencenumber><![CDATA[UniqueID010]]></referencenumber>
+        <referencenumber><![CDATA[IDUnique010]]></referencenumber>
         <url>
-            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=UniqueID01&amp;source=Indeed]]>
+            <![CDATA[http://www.examplesite.com/viewjob.cfm?jobid=IDUnique01&amp;source=Indeed]]>
         </url>
         <company><![CDATA[Amazon]]></company>
         <city><![CDATA[Texarkana]]></city>
@@ -848,7 +848,7 @@ Overtime paid after 40 hours a week.
 
 Reasonable accommodations are available for qualified individuals with disabilities.]]>
         </description>
-        <salary><![CDATA[5000 Monthly]]></salary>
+        <salary><![CDATA[USD 5000 Weekly]]></salary>
         <education><![CDATA[N/A]]></education>
         <jobtype><![CDATA[Part Time]]></jobtype>
         <major_category><![CDATA[Transportation & Logistics]]></major_category>
